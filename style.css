@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.eisenhower-matrix-container { text-align: center;
-}
+  .eisenhower-matrix-container { 
+    text-align: center;
+  }
 }
 .main-page-wrapper {
   display: block;
